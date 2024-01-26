@@ -1,0 +1,27 @@
+This is README file for Algorithm PA#3
+Author: <陳英睿 b10901082>
+Date: 2023/12/25
+=====
+SYNOPSIS:
+
+This algorithm support Cycle Breaking Problem
+
+
+=====
+DIRECTORY:
+
+bin/	  executable binary
+doc/	  reports
+src/ 	  source C++ codes
+
+======
+HOW TO COMPILE:
+
+Then compile the demo, simply follow the following steps
+	make
+======
+HOW TO RUN:
+
+	./bin/cb inputs/<input file name> outputs/<output file name>
+======
+
